@@ -1,1 +1,3 @@
 # Udacity_Analyze-A-B-Test-Results
+##### Data analysts and data scientists are well familiar with A/B experiments. It's critical that you acquire some practise dealing with these challenges.
+I'll be working on this project to decipher the findings of an e-commerce website's A/B test. The corporation has created a new web page in an attempt to improve the number of users who "convert," or those who opt to pay for the company's goods. Your goal is to use this notebook to help the organisation decide whether to implement this new page, keep the old page, or run the experiment for a longer period of time before making a decision.
